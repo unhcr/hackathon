@@ -16,7 +16,7 @@ MyUNHCR Hackathon
 </tr>
 </table>
 
-More here: "http://unhcr.github.io/hackathon
+More here:<strong> http://unhcr.github.io/hackathon </strong>
 
 This event is coordinated through Github. [Pull requests][pu]  are welcomed to help making it a better hackathon event.
 
@@ -49,7 +49,7 @@ Maximum 60 attendees.
 
 To register, please follow these steps:  
 
-1. Fork this project using github.  
+1. [Fork this project using github][fo].  
 
 2. Add a text file to the [`attendees`][at] folder, name the file using the convention: `nickname.md`.  
 
@@ -123,3 +123,4 @@ attend the event remotely in your self description.
 [px]: hackathon/blob/master/projects/example.md
 [md]: http://daringfireball.net/projects/markdown/syntax
 [pu]: http://help.github.com/send-pull-requests/
+[fo]: https://github.com/unhcr/hackathon/fork
