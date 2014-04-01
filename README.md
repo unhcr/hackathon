@@ -1,5 +1,4 @@
 
-
 MyUNHCR Hackathon 
 =================
 
@@ -23,10 +22,23 @@ This event is coordinated through Github. [Pull requests][pu] are welcomed to he
 GOAL
 ----
 
-Happy coding!  
+ *  Provide a platform for general information exchange with displaced populations
 
-REGISTRATION (報名)
--------------------
+ 
+
+ *  Offer means of contribution to refugees (self-initiated surveys and assessments, incident reporting, complaint mechanism)
+
+ 
+
+ *  Make UNHCR more approachable (through easy to use appointment booking)
+
+ 
+
+ *  Boost some of the slower processes by creating self-service mechanisms (updating contact information, document submission, etc.)
+
+
+REGISTRATION
+------------
 
 **The registration has not yet started. Note that you can still update/propose your projects.**
 
