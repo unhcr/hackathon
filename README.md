@@ -16,7 +16,9 @@ MyUNHCR Hackathon
 </tr>
 </table>
 
-This event is coordinated through Github. [Pull requests][pu] are welcomed to help making it a better hackathon event.
+More here: "http://unhcr.github.io/hackathon
+
+This event is coordinated through Github. [Pull requests][pu]  are welcomed to help making it a better hackathon event.
 
 GOAL
 ----
@@ -96,3 +98,28 @@ Please follow these steps to join to projects of your choice:
 3. Commit your changes and send this project a [pull request][pu].  
 
 Attendees express their interest and intent to join a project by adding their names to a proposal. Proponents and project members are free to further discuss and possibly re-group in the Hackathon. 。
+
+
+
+FAQ 
+----
+
+**Will there be computers available?**  
+
+No. There will be no computer provided for you. You have to bring your laptop.  
+
+**I will not be in Amman then. May I join remotely?**  
+
+There will be wifi available during the event, so it is possible to join
+remotely. Team members can communicate with each others with tools such as IRC,
+git, etherpad, and Google hangout.  
+
+Please also send [pull request][pu] and state explicitly that you have to
+attend the event remotely in your self description.  
+
+[at]: hackathon/tree/master/attendees
+[ax]: hackathon/blob/master/attendees/example.md
+[pr]: hackathon/tree/master/projects
+[px]: hackathon/blob/master/projects/example.md
+[md]: http://daringfireball.net/projects/markdown/syntax
+[pu]: http://help.github.com/send-pull-requests/
